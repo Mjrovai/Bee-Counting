@@ -3,5 +3,5 @@
 BuzzTech: Machine Learning at the Edge: Deploying YOLOv8 on Raspberry Pi Zero 2W and a Labrador for Real-Time Bee Counting at the Hive Entrance
 ---
 <div align="center">
-<img src="portada.jpeg" alt="Image" width="600" height="600">
+<img src="portada.jpeg" alt="Image" width="600">
 </div>
